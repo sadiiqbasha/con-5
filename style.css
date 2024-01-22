@@ -1,0 +1,12 @@
+body{
+    margin: 10em;
+}
+div h2{
+    padding: 7px 400px;
+}
+div h3{
+    padding: 7px 400px;
+}
+div.hi1 p{
+    text-align: justify;
+}
